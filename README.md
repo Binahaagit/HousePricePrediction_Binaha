@@ -146,7 +146,7 @@ HousePricePrediction_Binaha/
 
 ## Author
 
-**Binaha Mary Joji**
+**Binaha Mary**
 
 AI & Data Science Intern
 
