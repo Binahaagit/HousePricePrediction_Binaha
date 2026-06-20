@@ -150,4 +150,4 @@ HousePricePrediction_Binaha/
 
 AI & Data Science Intern
 
-Xylofi AI
+Xylofy AI
