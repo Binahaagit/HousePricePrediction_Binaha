@@ -1,6 +1,6 @@
 # House Price Prediction using Machine Learning
 
-## Xylofi AI Week 1 Internship Project
+## Xylofy AI Week 1 Internship Project
 
 ### Overview
 
