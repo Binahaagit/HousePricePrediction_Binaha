@@ -1,7 +1,5 @@
 # House Price Prediction using Machine Learning
 
-## Xylofy AI Week 1 Internship Project
-
 ### Overview
 
 This project explores how different property attributes affect house prices and uses machine learning to estimate price from those features. The goal is to understand the strongest price drivers and compare a few regression approaches on the same dataset.
